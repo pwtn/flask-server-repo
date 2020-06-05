@@ -1,0 +1,763 @@
+([0123456789]{2}\s){4}[A-zâàçéèêïîôùû(),.:'’"/–-\s]+ [123]
+
+01 01 01 01 Eaux plates ou gazeuses non aromatisées 1 
+01 01 01 02 Eaux plates ou gazeuses aromatisées 1 
+01 01 02 01 Sodas, toniques 1 
+01 01 02 02 Boissons fruitées, jus de fruits et légumes (hors smoothies) 1 
+01 01 02 04 Boissons de l'effort (énergétiques) 1 
+01 01 02 05 Boissons au thé (dont allégé) 1 
+01 01 02 06 Préparations déshydratées pour boissons 1 
+01 01 02 07 Concentrés et sirops 1 
+01 01 02 08 Panachés et bières sans alcool 1 
+01 01 02 09 Apéritifs sans alcool 1 
+01 01 02 10 Vins sans alcool 1 
+01 01 02 11 Smoothies 1 
+02 01 01 01 Communication alimentaire gamme : opération sans mise en avant d'un produit en particulier 1 
+02 02 01 01 Produits diététiques et non allergènes 1 
+02 02 01 02 Substituts alimentaires 1 
+02 03 01 01 Laits animal (hors infantiles) 1 
+02 03 01 02 Laits infantiles 1 
+02 03 01 03 Laits aromatisés, boissons lactées 1 
+02 03 01 04 Lait végétal 1 
+02 03 02 01 Cafés 1 
+02 03 02 02 Chicorées 1 
+02 03 02 03 Boisson au café – dont allégé 1 
+02 03 03 01 Petits déjeuners chocolatés 1 
+02 03 03 02 Petits déjeuners non chocolatés 1 
+02 03 04 01 Thés 1 
+02 03 04 02 Infusions et tisanes 1 
+02 03 05 01 Produits aromatisés pour boissons (pailles... ) 1 
+02 04 01 01 Institutionnel produits laitiers 1 
+02 04 02 01 Beurres et beurres allégés 1 
+02 04 02 02 Crèmes fraîches, allégées, liquides 1 
+02 04 02 03 Crème chantilly 1 
+02 04 03 02 Fromages blancs, petits suisses 1 
+02 04 03 03 Fromages frais (dont infantiles et salés) 1 
+02 04 03 04 Yaourts, spécialités laitières nature et aromatisé y compris allégés 1 
+02 04 03 05 Yaourts, spécialités laitières aux fruits y compris allégés 1 
+02 04 03 06 Yaourts, spécialités laitières à boire 1 
+02 04 03 07 Yaourts et desserts végétaux 1 
+02 04 04 01 Pâtes molles et fromages fondus 1 
+02 04 04 02 Pâtes pressées (dures) et fromages râpés 1 
+02 04 04 03 Chèvres 1 
+02 04 04 04 Roqueforts et bleus 1 
+02 04 04 05 Plats préparés à base de fromage, fromages à cuire 1 
+02 04 04 06 Fromages apéritifs 1 
+02 04 04 07 Fromages d'accompagnement (feta, mozzarella... ) 1 
+02 04 04 08 Crème de préparation culinaire à base de fromage 1 
+02 05 01 01 Huiles (d'arachide, d'olive, tournesol...) 1 
+02 05 02 01 Margarines 1 
+02 05 02 02 Corps gras de cuisson 1 
+02 06 01 01 Tablettes de chocolat 1 
+02 06 01 02 Boîtes, confiseries chocolatées pour adultes, marrons glacés 1 
+02 06 01 03 Bonbons chocolatés pour enfants 1 
+02 06 01 04 Barres chocolatées, céréalières 1 
+02 06 01 05 Pâtes à tartiner chocolatées 1 
+02 06 02 01 Confiseries, bonbons (non chocolatés), sucettes 1 
+02 06 02 02 Chewing-gum 1 
+02 06 02 03 Nougats 1 
+02 06 03 01 Confitures et miels 1 
+02 06 03 02 Pâtes à tartiner non chocolatées 1 
+02 07 01 01 Préparations pour desserts 1 
+02 07 01 02 Préparations pour plats salés (pizzas, crêpes... ) 1 
+02 07 02 01 Levures 1 
+02 07 02 02 Arômes, nappages, gélifiants et décors pâtissiers 1 
+02 07 03 01 Sucres (y compris édulcorants) 1 
+02 07 04 01 Entremets et crèmes desserts 1 
+02 07 04 02 Compotes 1 
+02 07 05 02 Glaces en vrac, desserts glacés 1 
+02 07 05 03 Glaces individuelles (barres glacées, bâtonnets...) 1 
+02 08 01 01 Farines ménagères 1 
+02 08 01 02 Pâtes feuilletées, sablées, brisées, à pizza.... 1 
+02 08 01 03 Chapelure 1 
+02 08 02 02 Céréales adultes 1 
+02 08 02 03 Céréales enfants 1 
+02 08 03 01 Biscuits secs dont chocolatés (cookies) 1 
+02 08 03 02 Quatre quart, pain d'épices, cakes, brownies, madeleines 1 
+02 08 03 03 Gaufres, crêpes, pancakes 1 
+02 08 03 04 Brioches, pains au lait (dont chocolatés) et viennoiseries (pain au chocolat, croissant, pain au raisin...) 1 
+02 08 04 01 Biscottes, pains, pâte à pain 1 
+02 08 05 01 Produits apéritifs salés et sucrés (biscuits salés, graines salées, fruits secs...) 1 
+02 09 01 01 Moutardes et condiments 1 
+02 09 01 02 Vinaigres 1 
+02 09 01 03 Cornichons, olives, oignons... 1 
+02 09 01 04 Epices, herbes, aromates 1 
+02 09 01 05 Sels 1 
+02 09 02 01 Pâtes, gnocchi 1 
+02 09 02 02 Riz 1 
+02 09 02 03 Semoule, tapioca, quinoa, boulgour 1 
+02 09 02 04 Blé 1 
+02 09 03 01 Chips 1 
+02 09 04 01 Légumes secs 1 
+02 09 05 01 Potages, bouillons 1 
+02 09 05 02 Arômes, gelées 1 
+02 09 05 03 Aides culinaires 1 
+02 09 06 01 Aliments infantiles (hors lait) 1 
+02 09 07 01 Mayonnaises, sauces froides (béarnaise, tartare, bourguignonne...) 1 
+02 09 07 02 Ketchup 1 
+02 09 07 03 Sauces salades 1 
+02 09 07 04 Sauces et amuse-bouche apéritifs (pour trempettes, "dips") (guacamole, tapenade... ) 1 
+02 09 08 01 Sauces cuisinées 1 
+02 09 09 01 Purées, préparations à base de pommes de terre et/ou de légumes 1 
+02 09 09 02 Frites, pommes de terre sautées 1 
+02 09 10 01 Produits exotiques (asiatiques, mexicains... ) 1 
+02 10 01 01 Institutionnel fruits et légumes 1 
+02 10 02 01 Fruits secs 1 
+02 10 03 01 Fruits frais, en conserves ou surgelés 1 
+02 10 03 02 Légumes frais, en conserves, surgelés ou prêts à consommer (lavés, sous-vide) 1 
+02 10 04 01 Plats cuisinés, en conserves, surgelés ou frais 1 
+02 10 04 02 Quiches, tourtes, pizzas, crêpes salées, fougasses ... 1 
+02 10 04 03 Salades composées 1 
+02 10 04 04 Sandwiches, hamburger, croque-monsieur, hot dogs, wraps... surgelés ou frais 1 
+02 10 04 05 Préparations à base de viandes, volailles (cordon bleu... ) 1 
+02 10 04 06 Plats cuisinés centpourcent végétal (steak végétal, nuggets végétal, boulettes végétal...) 1 
+02 10 05 01 Institutionnel viandes 1 
+02 10 05 02 Viandes 1 
+02 10 05 03 Jambons (porc, poulet, dinde...) 1 
+02 10 05 04 Saucisses sèches, saucissons secs, salaisons 1 
+02 10 05 05 Pâtés, rillettes 1 
+02 10 05 06 Lardons, lard, allumettes (porc, poulet, dinde) 1 
+02 10 05 07 Saucisses à cuisiner, boudins 1 
+02 10 06 01 Institutionnel produits de la mer 1 
+02 10 06 02 Huîtres, coquillages et crustacés 1 
+02 10 06 03 Poissons frais, en conserves ou surgelés, panés 1 
+02 10 06 04 Préparations à base de produits de la mer 1 
+02 10 07 01 Institutionnel volailles et gibiers 1 
+02 10 07 03 Volailles, gibiers (dont magrets, gésiers... ) 1 
+02 10 07 04 Oeufs 1 
+02 10 08 01 Saumon fumé, caviar 1 
+02 10 08 02 Foie gras 1 
+02 10 08 03 Institutionnel produits alimentaires de luxe 1 
+02 11 01 01 Aliments chiens 1 
+02 11 01 02 Aliments chats 1 
+02 11 01 03 Aliments poissons 1 
+02 11 01 04 Aliments oiseaux 1 
+02 11 01 05 Aliments autres animaux domestiques 1 
+04 01 01 01 Chaussures de ville 2 
+04 01 01 02 Pantoufles 2 
+04 01 01 03 Semelles, accessoires chaussures 2 
+04 01 02 01 Sacs à main, maroquinerie adulte (portefeuille, serviettes-porte documents...) 2 
+04 01 02 02 Bagages 2 
+04 01 02 03 Cartables, sacs à dos et accessoires écoliers 2 
+04 01 03 01 Accessoires habillement (ceintures, chapeaux...) 2 
+04 01 03 02 Gants habillement 2 
+04 01 03 03 Parapluies 2 
+04 02 01 04 Vêtements de travail et de loisirs (combinaison, salopette...) 2 
+04 02 02 01 Jeans 2 
+04 02 03 01 Prêt-à-porter femme 2 
+04 02 04 01 Prêt-à-porter homme 2 
+04 02 05 01 Prêt-à-porter enfants 2 
+04 02 05 02 Sous-vêtements enfants 2 
+04 02 05 03 Chaussures enfants 2 
+04 02 05 04 Layette bébés 2 
+04 03 01 01 Lingerie féminine (soutien-gorge, slips...) 2 
+04 03 01 02 Gaines, shorty, panty... 2 
+04 03 02 01 Sous-vêtements homme 2 
+04 03 03 01 Bas, collants 2 
+04 03 03 02 Chaussettes 2 
+04 03 04 01 Maillots de bain 2 
+04 04 01 01 Lunettes, verres correcteurs (sauf lentilles) 2 
+04 04 01 02 Lunettes solaires 2 
+04 04 01 03 Lentilles correctrices et de couleurs 2 
+04 04 01 04 Nettoyants pour lunettes 2 
+04 04 01 05 Nettoyants pour lentilles 2 
+04 05 01 01 Montres adultes 2 
+04 05 01 02 Montres enfants 2 
+04 05 01 03 Réveils pendules 2 
+04 05 02 01 Bijoux 2 
+04 06 01 01 Mercerie et fournitures pour ouvrages 2 
+04 06 01 02 Accessoires couture (fermetures glissières... ) 2 
+04 06 01 03 Fils à tricoter, fournitures tapisserie (canevas... ) 2 
+04 06 02 01 Tissus de confection 2 
+04 07 01 01 Fibres naturelles et synthétiques 2 
+04 08 01 01 Chaussures et vêtements de sport (jogging-running, trekking- randonnée, escalade... ) 2 
+04 08 01 02 Bottes 2 
+04 08 01 03 Sacs de sport 2 
+07 01 01 01 Lave-linge, sèche-linge, séchoirs 1 
+07 01 01 02 Lave-vaisselle 1 
+07 01 02 01 Réfrigérateurs, congélateurs 1 
+07 01 03 01 Aspirateurs, cireuses, balais mécaniques 1 
+07 01 03 02 Nettoyeurs (vapeur... ) 1 
+07 01 03 03 Détacheurs textiles (ultra-sons... ) 1 
+07 01 04 01 Cuisinières, fours, plaques de cuisson, micro-ondes 1 
+07 01 05 01 Appareils de chauffage 1 
+07 01 05 02 Chauffe-eau 1 
+07 01 06 01 Appareils conviviaux (pierrade, appareils à crêpes, raclette... ) 1 
+07 01 06 02 Friteuses, cuiseurs, grills... électriques 1 
+07 01 06 03 Grille pain 1 
+07 01 06 04 Appareils à café, théières 1 
+07 01 06 05 Robots ménagers (presse-agrumes, hachoirs, centrifugeuses, batteurs, machines à pains...) 1 
+07 01 06 06 Bouilloires 1 
+07 01 06 07 Yaourtières 1 
+07 01 06 08 Sorbetières 1 
+07 01 06 09 Sauciers 1 
+07 01 06 10 Ouvre-boîtes 1 
+07 01 06 11 Ouvre-huîtres 1 
+07 01 06 12 Couteaux électriques 1 
+07 01 06 13 Appareils lait infantile 1 
+07 01 06 14 Machine à soda et eau gazeuse 1 
+07 01 07 01 Hottes 1 
+07 01 07 02 Humidificateurs-déshumidificateurs 1 
+07 01 07 03 Ventilateurs-aérateurs 1 
+07 01 07 04 Climatisation domestique, pompes à chaleur 1 
+07 01 08 01 Machines, fers à repasser 1 
+07 01 09 01 Sèche cheveux, fers à friser, fers à lisser 1 
+07 01 09 02 Lampes solaires 1 
+07 01 09 03 Appareils de beauté (massage, soin, musculation...) 1 
+07 01 10 02 Détecteurs de fumée 1 
+07 01 11 01 Ampoules 1 
+07 01 11 02 Appareils éclairage, luminaires 1 
+07 01 11 03 Lampes de poche 1 
+07 01 12 01 Piles, rechargeurs de piles 1 
+07 01 13 01 Machines à coudre 1 
+07 01 13 02 Machines à tricoter 1 
+07 01 14 01 Institutionnel électroménager 1 
+07 02 01 01 Tables et housses de repassage 1 
+07 02 01 02 Poussettes de marché 1 
+07 02 01 03 Glisse-meuble 1 
+07 02 01 04 Détendeurs gaz 1 
+07 02 01 05 Allume feux, allume barbecue (briquets, allumettes) 1 
+07 02 02 01 Balances de ménage 1 
+07 02 02 02 Pèse-personne 1 
+07 02 03 01 Objets ménagers plastique 1 
+07 02 04 01 Récipients de cuisine (cocottes, casseroles, poêles...) 1 
+07 02 04 02 Ustensiles de cuisine (couteaux multi-usage, éplucheurs...) 1 
+08 01 01 01 Linges de maison (draps, housses de couette, nappes...) 2 
+08 01 01 02 Linges de toilette (serviettes... ) 2 
+08 01 01 03 Couvertures, couettes, oreillers hors ergonomiques et anatomiques 2 
+08 01 01 04 Sacs de couchage 2 
+08 01 02 01 Equipements cuisines et salles de bain 2 
+08 01 03 01 Meubles 2 
+08 01 03 02 Sièges (canapés, fauteuils, chaises... ) 2 
+08 01 03 03 Matériels de rangement (boîtes) 2 
+08 01 04 01 Mobiliers de plein air (tables, chaises, parasols...) 2 
+08 01 04 02 Barbecue, grills extérieurs 2 
+08 01 05 01 Literie (matelas, sommiers) 2 
+08 01 05 02 Oreillers érgonomiques et anatomiques 2 
+08 01 05 03 Couchages pour animaux de compagnie (coussins... ) 2 
+08 01 06 01 Meubles pour bébés (berceaux, tables à langer...) 2 
+08 01 06 02 Landaus, poussettes 2 
+08 01 06 03 Mobiliers pour enfants (lits, bureaux...) 2 
+08 01 06 04 Sièges de sécurité enfants 2 
+08 01 06 05 Articles de puériculture (chauffe biberon...) 2 
+08 01 07 01 Cheminées, insert, poêles (tous combustibles : bois, charbon, végétaux... ) 2 
+08 01 07 02 Accessoires de cheminées (soufflets, ramonage... ) 2 
+08 01 08 01 Vaisselle porcelaine 2 
+08 01 08 02 Cristallerie, verrerie 2 
+08 01 09 01 Orfèvrerie 2 
+08 02 01 01 Equipements sanitaires et robinetterie (dont baignoires à fonctions) 2 
+08 02 01 02 W-C chimiques, broyeurs W-C 2 
+08 02 02 01 Traitement de l'eau (filtreurs, adoucisseurs,... ) 2 
+08 02 02 02 Distributeurs d'eau 2 
+08 03 01 01 Rideaux, voilages 2 
+08 03 02 01 Revêtements sols (tapis, moquettes) 2 
+08 03 02 02 Revêtements sols (carrelages, linoléums et plastiques) 2 
+08 03 02 03 Revêtements sols (parquets, stratifiés, plaquages de bois...) 2 
+08 03 03 01 Plastiques, papiers peints, tissus d'ameublement, stickers muraux auto- collants... 2 
+08 03 04 01 Peintures et accessoires de peinture 2 
+08 03 04 02 Enduits, reboucheurs 2 
+08 03 04 03 Revêtements de protection (vernis, traitement du bois...) 2 
+08 03 05 01 Piscines et abris de piscine 2 
+08 03 05 02 Entretien piscines 2 
+08 03 05 03 Spa, jacuzzi, hammam, sauna... 2 
+08 03 06 01 Portes, escaliers, portails 2 
+08 03 06 02 Isolation 2 
+08 03 06 03 Vérandas 2 
+08 03 06 04 Stores 2 
+08 03 06 05 Serrurerie, coffre-fort 2 
+08 03 06 06 Clôtures, paravents, croisillons 2 
+08 03 06 07 Interrupteurs électriques 2 
+08 03 06 08 Moteurs pour portes, portails, stores, volets... 2 
+08 03 06 09 Domotique 2 
+08 03 06 11 Dressing 2 
+08 03 07 01 Produits bricolage (colles spécialisées, adhésifs...) 2 
+09 01 01 01 Papiers et emballages ménagers (aluminium, films alimentaires...) 1 
+09 01 01 02 Papiers essuie-tout 1 
+09 01 01 03 Sacs poubelle 1 
+09 01 01 04 Filtres à café 1 
+09 01 01 05 Sacs de congélation 1 
+09 01 02 01 Lessives (linge) 1 
+09 01 03 01 Produits vaisselle main 1 
+09 01 03 02 Produits lave-vaisselle (lavage et entretien) 1 
+09 01 04 01 Maintien des couleurs, ravivage anti-jaune, oxygénants 1 
+09 01 04 02 Assouplisseurs textile 1 
+09 01 04 04 Teintures pour tissus 1 
+09 01 04 05 Produits pour repassage 1 
+09 01 04 06 Sachets parfumés ou fraîcheur 1 
+09 01 05 01 Détachants vêtements 1 
+09 01 05 02 Détachants tapis-moquette 1 
+09 01 05 03 Traitements des textiles 1 
+09 01 05 04 Détachants à sec 1 
+09 01 06 01 Produits à nettoyer, récurer et désinfecter, multi-usages, avec ou sans javel 1 
+09 01 06 02 Nettoyants pour sols 1 
+09 01 06 03 Javels (eaux et gels) 1 
+09 01 06 04 Nettoyants pour appareils de cuisson  1 
+09 01 06 05 Produits anti-calcaire (hors lave-linge et lave-vaiselle) 1 
+09 01 06 06 Produits d'entretien du lave-linge (anti-calcaire, anti-résidu, anti-odeur) 1 
+09 01 07 01 Eponges et tissus éponge, tampons à récurer 1 
+09 01 07 02 Gants ménagers 1 
+09 01 08 01 Décapants et entretien des métaux 1 
+09 01 08 02 Décapants fours et protection 1 
+09 01 08 03 Produits pour l'argenterie 1 
+09 01 08 04 Dégrippants métaux 1 
+09 01 09 01 Entretien des vitres et glaces 1 
+09 01 10 01 Cires et encaustiques pour sols, vitrificateurs 1 
+09 01 10 02 Cires, encaustiques, nettoyants meubles 1 
+09 01 11 01 Cirages entretien cuirs 1 
+09 01 12 01 Balais, balais-dépoussiérant (dont lingettes), brosses, plumeaux 1 
+09 01 13 01 Produits entretien des véhicules 2 
+09 01 13 02 Désodorisants véhicules 2 
+09 01 14 01 Produits anti-humidité 1 
+09 01 15 01 Désodorisants ménagers (appareils et produits dont bougie) 1 
+09 01 15 02 Désodorisants textiles 1 
+09 01 15 03 Désodorisants chaussures 1 
+09 01 16 01 Insecticides 1 
+09 01 16 02 Antimites 1 
+09 01 17 01 Produits W-C détartrants 1 
+09 01 17 02 Déboucheurs,entretien des canalisations 1 
+09 01 18 01 Litières 1 
+09 01 19 01 Désinfectants textiles 1 
+09 01 19 02 Désinfectants chaussures 1 
+09 01 20 01 Institutionnel entretien ménager 1 
+10 01 01 01 Papiers toilette 1 
+10 01 01 02 Mouchoirs 1 
+10 01 01 03 Cotons 1 
+10 01 01 04 Lingettes pour bébés 1 
+10 01 02 01 Couches et changes complets pour bébés 1 
+10 01 03 01 Garnitures périodiques (serviettes et tampons) 1 
+10 01 03 02 Protège-slips 1 
+10 01 03 03 Produits soins intimes 1 
+10 01 04 01 Protections pour adultes 3 
+10 02 01 01 Savons, produits lignes de bains et douches 1 
+10 02 02 01 Déodorants femme 1 
+10 02 02 02 Déodorants homme 2 
+10 02 03 01 Dentifrices (dont pour enfants) 1 
+10 02 03 03 Produits blanchisseurs de dents 1 
+10 02 03 04 Produits et solutions dentaires 1 
+10 02 04 01 Rasoirs (dont éléctriques) et lames homme 2 
+10 02 04 02 Tondeuses à cheveux, à barbe 2 
+10 02 05 01 Epilation femme (crèmes, cires, appareils rasage, lames et autres ...) 1 
+10 02 06 01 Entretien prothèses dentaires 3 
+10 02 07 01 Brosses à dents (dont électriques) 1 
+10 02 08 01 Produits rasage homme (bombes à raser, avant et après rasage...) 2 
+10 02 09 01 Produits toilette bébés, enfants 1 
+10 03 01 01 Parfums et eaux de toilette femme (grande distribution et VAD) 1 
+10 03 01 02 Parfums et eaux de toilette femme (distribution sélective) 1 
+10 03 02 01 Parfums et eaux de toilette homme (grande distribution et VAD) 2 
+10 03 02 02 Parfums et eaux de toilette homme (distribution sélective) 2 
+10 03 03 01 Parfums et eaux de toilette enfant 1 
+10 03 05 01 Parfums et eaux de toilette animal 1 
+10 03 06 01 Parfums et eaux de toilette mixtes (grande distribution et VAD) 2 
+10 03 06 02 Parfums et eaux de toilette mixtes (distribution sélective) 2 
+10 04 01 01 Soins spécifiques adolescent (hors patch) 1 
+10 04 02 01 Soins du visage et beauté femme hors soins contour des yeux 1 
+10 04 02 02 Soins du visage et beauté homme hors soins contour des yeux 2 
+10 04 02 03 Patch (pastilles adhésives anti-imperfections) 1 
+10 04 02 04 Brumisateurs d'eau 1 
+10 04 02 05 Nettoyants du visage (gels, lotions, mousse... ) femme et homme 1 
+10 04 02 06 Soins contour des yeux femmes 1 
+10 04 02 07 Soins contour des yeux hommes 2 
+10 04 03 01 Démaquillants (visage et yeux) et eaux micellaires-dont lingettes 1 
+10 04 03 02 Dissolvants ongles 1 
+10 04 04 01 Produits solaires et après-solaires externes 1 
+10 04 04 02 Produits autobronzants externes 1 
+10 04 05 01 Produits soins des mains 1 
+10 04 06 01 Produits amincissants externes femme 1 
+10 04 06 02 Produits amincissants externes homme 2 
+10 04 07 01 Soins du corps (huile de beauté, crème, gel...) 1 
+10 04 08 01 Soins des lèvres 1 
+10 04 09 01 Soins des pieds (dont déodorants) 1 
+10 05 01 01 Fonds de teint, poudre et blush 1 
+10 05 01 02 Fards et mascaras yeux (dont crayons et eyeliners) 1 
+10 05 01 03 Rouges à lèvres 1 
+10 05 01 04 Vernis et beauté des ongles 1 
+10 06 01 01 Shampooings, après-shampooings et masques capillaires (démélants... ) 1 
+10 06 02 01 Colorations capillaires femmes 1 
+10 06 02 02 Colorations capillaires hommes 2 
+10 06 02 03 Produits éclaircissants (sprays, gelées...) hors shampoings et masques 1 
+10 06 02 04 Produits densifiants capillaires hommes (poudres, sprays...) 2 
+10 06 03 01 Produits de coiffage, laques, fixateurs, gels... 1 
+10 06 04 01 Lotions et traitements (antipelliculaire, antichute...) 1 
+10 06 04 02 Soins capillaires (huile et spray) - Hors après-shampoing et masque capillaire 1 
+10 06 05 01 Accessoires de coiffure (barrettes, pinces... ) 1 
+10 07 01 01 Instituts de beauté 1 
+10 07 02 01 Salons de coiffure 1 
+10 07 03 01 Centres pour la forme 1 
+10 08 04 01 Hygiène-beauté gamme (sans mise en avant de produits particuliers) 1 
+11 01 01 01 Automobiles-voitures de tourisme et de sport gamme inférieure 2 
+11 01 01 04 Automobiles-voitures de tourisme et de sport opérations commerciales (portes ouvertes... ), institutionnel marques, sans mise en avant d'un modèle particulier (sans garantie d'exclusivité) 2 
+11 01 01 05 Micro-voitures 2 
+11 01 01 06 Gamme moyenne SUV Crossover (hors gamme supérieure) 2 
+11 01 01 07 Gamme moyenne (hors SUV Crossover) 2 
+11 01 01 08 Gamme supérieure citadines 2 
+11 01 01 09 Gamme supérieure (hors citadines) 2 
+11 01 02 01 Services et centres auto (hors-vitrage) 2 
+11 01 02 02 Contrôles techniques 2 
+11 01 02 03 Stations de lavage 2 
+11 01 02 04 Spécialistes vitrage auto réparation et remplacement 2 
+11 01 02 05 Ventes de pièces détachées auto / moto (hors accessoires) 2 
+11 01 03 01 Camions-cars 2 
+11 01 04 01 Véhicules utilitaires 2 
+11 02 01 01 Accessoires deux roues 2 
+11 02 02 01 Motos, cyclomoteurs, scooters (dont électriques) 2 
+11 02 02 02 Bicyclettes 2 
+11 02 02 03 Vélo à assistance électrique 2 
+11 03 01 01 Matériel de transport (dont moteurs hors automobile) 2 
+11 04 01 01 Accessoires véhicules (housses, chaînes, alarme...) 2 
+11 04 01 02 Aide à la navigation (G P S... ) 2 
+11 04 02 02 Equipements mécaniques 2 
+11 04 02 03 Equipements électriques et électroniques 2 
+11 04 03 01 Pneumatiques 2 
+11 05 01 01 Caravanes, camping car, habitations mobiles... 2 
+11 05 02 01 Bateaux de plaisance 2 
+12 01 01 01 Location de véhicules par loueurs professionnels 2 
+12 01 01 02 Locations de véhicules entre particuliers 2 
+12 01 01 03 Covoiturage 2 
+12 01 01 04 Taxis et chauffeurs privées 2 
+12 01 01 06 Location d’engins nautiques pour particuliers 2 
+12 01 02 01 Compagnies aériennes 2 
+12 01 03 01 Compagnies maritimes 2 
+12 01 04 01 Clubs, agences de voyages 2 
+12 01 05 01 Transports urbains 2 
+12 01 05 02 Transports routiers passagers 2 
+12 01 05 03 Transports ferroviaires 2 
+12 01 06 01 Tourisme français et étranger (collectivités locales et territoriales) hors développements économiques et sociaux 2 
+12 01 06 02 Thermalisme et thalassothérapie 3 
+12 01 06 03 Stations de sports d'hiver 2 
+12 01 07 01 Restauration rapide (dont sandwicherie, café...) 1 
+12 01 07 02 Restauration livrée à domicile 1 
+12 01 07 03 Restaurants, cafétérias 1 
+12 01 07 05 Livraison à domicile de produits frais (panier frais avec recette...) 1 
+12 01 08 01 Hôtellerie 2 
+12 01 08 02 Hôtellerie de plein air 2 
+12 01 08 04 Echanges et locations saisonnières entre particuliers 2 
+12 01 09 01 Comparateur voyage tourisme sans garantie d'exclusivité 2 
+13 01 01 01 Lubrifiants, carburants et stations services 2 
+13 01 01 02 Additifs et nettoyants moteurs 2 
+13 01 02 01 Fioul domestique 2 
+13 01 03 01 Gaz butane, propane (bonbonnes) 2 
+13 01 03 02 Gaz naturel 2 
+13 02 01 01 Energies électriques, nucléaire et renouvelables (vent, soleil,chaleur terrestre,eau, biodégradation) 2 
+13 03 01 01 Comparateurs d'énergie sans garantie d'exclusivité 2 
+15 01 01 01 Ecoles, cours, formations professionnels 2 
+15 01 01 02 Cours de langues (tout support) 2 
+15 01 01 03 Séjours linguistiques 2 
+15 01 01 04 Soutiens scolaires (tout support) 2 
+15 02 01 01 Cours de conduite 2 
+15 02 02 01 Méthodes minceur 2 
+16 01 01 01 Editions musicales tous supports : CD, mobile... (sans garantie d'exclusivité) 2 
+16 01 02 01 Editions audiovisuelles tous supports : DVD, VOD... (sans garantie d'exclusivité) 2 
+16 02 01 12 Edition littéraire tous supports : livres, BD, livres électroniques... (sans garantie d'exclusivité) 2 
+16 02 04 01 Fascicules avec ou sans objets (sans garantie d'exclusivité) 2 
+17 01 02 01 Grands magasins 1 
+17 01 02 02 Centres commerciaux 1 
+17 01 03 01 GMS, Hard Discount (institutionnel : sans mise en avant d'un produit particulier) 1 
+17 01 03 02 Gamme MDD, premier Prix (institutionnel : sans mise en avant d'un produit particulier) 1 
+17 01 03 03 Moyens de fidélisation (cartes de réduction, casback, couponing...) 2 
+17 01 03 04 Cartes de paiement d'enseignes 2 
+17 01 03 05 Service drive GMS et Hard Discount 1 
+17 01 04 01 Parapharmacie 1 
+17 01 04 02 Billeterie 2 
+17 01 07 01 Soldeurs, ventes entrepôts 1 
+17 01 07 02 Dépôts-ventes 1 
+17 01 07 03 Achats groupés 1 
+17 01 08 01 Magasins locaux 1 
+17 01 09 01 Centrales d'achats 1 
+17 02 01 01 Alimentation / Boissons (surgelés, traiteurs... ) 1 
+17 02 01 02 Jardinerie/Pépiniériste/Fleuriste/Animalerie 2 
+17 02 01 03 Moquette / Revêtements sols 2 
+17 02 01 04 Ameublement / Luminaire / Literie 2 
+17 02 01 06 Bricolage / Quincaillerie 2 
+17 02 01 07 Habillement /Accessoires 2 
+17 02 01 08 Electoménager, Electronique Informatique, Audiovisuel 2 
+17 02 01 09 Jeux / Jouets 1 
+17 02 01 10 Maternité 1 
+17 02 01 11 Photo (albums photos, développement...) pour particulier 2 
+17 02 01 12 Sanitaires / Carrelages 2 
+17 02 01 13 Cuisines 2 
+17 02 01 14 Sports (habillement, accessoires, textile sport, matériel de sport) 2 
+17 02 01 15 Parfumeries / Beauté / Hygiène / Parapharmacie 1 
+17 02 01 16 Loisirs/Produits culturels (librairie, papeterie, musique, vidéo... ) 2 
+17 02 01 17 Décoration d'intérieur / Arts de la table 2 
+17 02 01 18 Téléphonie / Télécommunication 2 
+17 02 01 19 Chaussures 1 
+17 02 01 20 Vente de véhicules (mandataires, professionnels) 2 
+17 02 01 21 Rachats - recyclages 1 
+17 02 01 22 Produits et services érotiques 2 
+17 02 02 01 Multi secteur 2 
+18 01 01 01 Conseils-experts financiers, affacturage, y compris services en ligne 2 
+18 01 01 02 Agents de change-bourses, transfert d'argent international 2 
+18 01 01 03 Monnaies de collection 2 
+18 01 01 04 Cautions mutuelles immobilières 2 
+18 01 01 05 Financement participatif (tous domaines) - sans garantie d'exclusivité 2 
+18 01 02 01 Placements-épargne (Livret, PEL, Codevi...) sauf épargne retraite 2 
+18 01 02 02 Moyens de paiement (cartes de crédit, de paiement) 2 
+18 01 02 03 Autres moyens de paiement (dont application mobile), abonnements parking et télépéage 2 
+18 01 02 04 Prêts immobiliers 2 
+18 01 02 05 Prêts personnels (hors autos-motos), à la consommation, crédits renouvelables, rachats de crédits, prêts travaux... 2 
+18 01 02 06 Prêts automobiles, motos... 2 
+18 01 02 07 Cartes multi-services, à points 2 
+18 01 02 08 Institutionnel banque (sans mise en avant d'un produit ou service particulier) 2 
+18 01 02 09 Services bancaires aux entreprises 2 
+18 01 02 10 Services bancaires aux particuliers 2 
+18 01 03 01 Assurances vie, retraite (dont épargne, PERP), prévoyance, santé, médicale 2 
+18 01 03 02 Assurances automobiles, motos... 2 
+18 01 03 03 Assurances multirisques habitation 2 
+18 01 03 04 Assurances assistance-loisirs et déplacements 2 
+18 01 03 05 Assurances obsèques 3 
+18 01 03 06 Assurances scolaires 2 
+18 01 03 07 Assurances animaux 2 
+18 01 03 08 Assurances professionnelles (risques industriels...) 2 
+18 01 03 09 Institutionnel assurance (sans mise en avant d'un produit ou service particulier) 2 
+18 01 03 10 Assistance, protection juridique 2 
+18 01 03 11 Assurances prêts (immobilier... ) 2 
+18 01 03 12 Conseils / Services en ligne 2 
+18 01 04 13 Comparatuers de services financiers, bancaires, et assurances, sans garantie d'exclusivité 2 
+19 01 01 01 Plantes, fruits, fleurs, graines et bulbes 2 
+19 01 02 01 Tondeuses, motoculteurs, débroussailleuses... 2 
+19 01 02 02 Matériels d'arrosage 2 
+19 01 02 03 Outillages de jardin à moteur et à main 2 
+19 01 02 04 Tronçonneuses 2 
+19 01 03 01 Bacs à plantes, mini-serres 2 
+19 01 04 01 Engrais jardin et plantes appartement 2 
+19 01 04 02 Traitements divers jardin et appartement (insecticides, fongicides, herbicides...) 2 
+19 02 01 01 Outillages électriques et classiques (perceuses, agrafeuses...) 2 
+19 02 01 02 Matériels de nettoyage sols et murs 2 
+19 02 01 03 Visserie : boulons, chevilles, clous, crochets, écrous, rivets, rondelles, vis... 2 
+19 03 01 01 Matériels agricoles (tracteurs...) 2 
+19 03 01 02 Matériels de préparation des sols 2 
+19 03 02 01 Engrais chimiques agricoles (biostimulants, substrats, terreaux spéciaux... ) 2 
+19 03 03 01 Aliments pour animaux de ferme 2 
+19 03 04 01 Eleveurs de chevaux 2 
+20 01 01 01 Personnel intérimaire 2 
+20 01 02 01 Réseau de recrutement, plateforme de recherche d’emploi et gestion de carrière 2 
+20 01 02 02 Conseils en mobilité professionnelle internationale (carte verte, expatriation... ) 2 
+20 01 03 01 Recrutement des entreprises 2 
+20 02 01 01 Agences de communication 2 
+20 02 01 02 Agences de mannequins 2 
+20 03 01 01 Déménagements, garde-meubles, stockage privatif... 2 
+20 03 02 01 Transports express, fret, sociétés de coursiers 2 
+20 03 02 02 Courrier, timbres, colis, enveloppes, matériels courrier... 2 
+20 03 03 01 Location de matériels, appareils 2 
+20 03 03 02 Sociétés de dépannages (hors automobiles) 2 
+20 03 04 01 Agences matrimoniales et clubs de rencontres y compris en ligne, sans garantie d'exclusivité 2 
+20 03 05 01 Laverie-pressing 2 
+20 03 06 01 Sociétés de restauration d'entreprise, tickets restaurant... 2 
+20 03 07 01 Services cadeaux (fleurs, chèques, box... ) - sans garantie d'exclusivité 2 
+20 03 07 02 Maisons de retraite 2 
+20 03 07 03 Sociétés de services funéraires 3 
+20 03 07 04 Services de télé-assistance aux personnes 2 
+20 03 07 05 Services Cagnotte 2 
+20 03 08 01 Expertise, audit, consultants, avocats... 2 
+20 03 08 02 Sociétés de nettoyage industriel 2 
+20 03 08 03 Services professionnels à la personne, aide à domicile 2 
+20 03 08 04 Service de secrétariat à distance (prise de rendez-vous, standard téléphonique...) 2 
+20 03 08 05 Coaching à destination des entreprises 2 
+20 03 08 06 Coaching de vie et de bien-être pour particulier (sans garantie d’exclusivité) 2 
+20 03 08 07 Espace de location de bureaux équipés, coworking, réunion, domiciliation pour entreprise. 2 
+20 03 09 01 Alarmes, systèmes de sécurité, télésurveillance 2 
+20 04 01 01 Associations, fédérations et organisations professionnelles (dont Agence Nationale pour les Chèques-Vacances) 2 
+20 04 02 01 Organismes humanitaires (fondations...) 2 
+20 04 03 01 Informations gouvernementales 2 
+20 04 03 02 Grandes causes nationales (hors humanitaires) 2 
+20 04 04 01 Développements économiques et sociaux (hors offices de tourisme ) 2 
+20 05 01 01 Clubs et associations sportives 2 
+21 01 01 01 Immobilier habitation (appartements...) 2 
+21 01 02 01 Immobilier de bureaux 2 
+21 01 03 01 Services et agences immobilières 2 
+22 01 01 01 Privatisations et ouvertures/augmentations de capital 2 
+22 01 02 01 Informations financières, publications des résultats 2 
+23 01 01 01 Corporate d'entreprise y compris sites institutionnels 2 
+23 01 01 02 Promotion gammes de produits (opérations sans mise en avant de produits particulière) 2 
+26 01 01 01 Accessoires de santé (thermomètre, tensiomètre...) 1 
+26 01 01 02 Préservatifs, lubrifiants et accessoires... 1 
+26 01 01 03 Bouchons anti-bruit 1 
+26 01 01 04 Produits anti-ronflements 1 
+26 01 01 05 Articles de puériculture 1 
+26 01 02 01 Collyres-soins des yeux 1 
+26 01 02 02 Tests de grossesse 1 
+26 01 02 03 Tests d'ovulation 1 
+26 01 02 04 Produits de cure solaire (ex-bronzants internes (produits solaires oraux)) 1 
+26 01 02 05 Produits de cure minceur (ex-produits internes amincissants) 1 
+26 01 02 06 Produits anti-insectes 1 
+26 01 02 07 Produits antiparasites et accessoires (poux...) 1 
+26 01 02 08 Vaccins (sauf anti-grippe) 1 
+26 01 02 09 Traitements des oreilles 1 
+26 01 02 10 Traitements pour la ménopause 1 
+26 01 02 11 Traitements de l'impuissance masculine 1 
+26 01 02 12 Traitements anti-histaminiques (rhinites allergiques...) 1 
+26 01 02 13 Produits de cure anti-rides internes (raffermissant, liftant... ) 1 
+26 01 02 14 Produits de cure capillaire (circuit pharmacie/parapharmacie) 1 
+26 01 02 15 Produits de cure hydratation interne 1 
+26 01 02 16 Assainissants atmosphériques (sprays... ) 1 
+26 01 02 17 Traitements des gênes urinaires 3 
+26 01 02 18 Spray nasal 1 
+26 01 03 01 Sédatifs (relaxant...) 1 
+26 01 04 01 Analgésiques 1 
+26 01 04 02 Anti-grippe 1 
+26 01 04 03 Anti-rhume, décongestionnants (hors spray) 1 
+26 01 04 04 Toux et maux de gorge 1 
+26 01 04 05 Vaccins anti-grippe 1 
+26 01 05 01 Estomac-digestion 1 
+26 01 05 02 Laxatifs 1 
+26 01 05 03 Antinausée (malaise de transports...) 1 
+26 01 05 04 Antidiarrhées 1 
+26 01 06 01 Antidouleurs-rhumatismes (baumes musculaires, patchs, sprays...) 1 
+26 01 06 02 Affections virales de la peau (anti-herpétiques, boutons de fièvre... ) 1 
+26 01 06 03 Soins des jambes, orthopédie 1 
+26 01 06 04 Autres affections virales de la peau (verrues... ) 1 
+26 01 06 05 Affections fongiques de la peau (mycoses... ) 1 
+26 01 06 06 Infections de la bouche (aphtes... ) 1 
+26 01 06 07 Traitements des brûlures 1 
+26 01 06 08 Crème dermique apaisante hors antidouleurs-rhumatismes 1 
+26 01 06 09 Traitements des cicatrices 1 
+26 01 07 01 Vitamines, fortifiants, sels minéraux 1 
+26 01 08 01 Soins hémorroïdes 1 
+26 01 08 02 Circulation du sang 1 
+26 01 09 01 Traitements anti-tabac dont substitut 1 
+26 01 09 02 Traitements anti-alcool 1 
+26 01 10 01 Pansements, bandages 1 
+26 01 10 02 Antiseptiques, désinfectants 1 
+26 01 11 01 Appareils pour malentendants 3 
+26 01 12 01 Institutionnel médicaments 1 
+26 01 12 02 Institutionnel parapharmacie 1 
+26 02 01 01 Prévention médicale 1 
+26 03 01 01 Produits vétérinaires animaux de compagnie (antipuces...) 1 
+26 04 01 01 Mobiliers d'assistance pour personnes à mobilité réduite : monte- escaliers, mini-ascenseurs... 3 
+26 04 01 02 Matériels d'assistance pour personnes à mobilité réduite : scooters, déambulateurs... 3 
+26 04 01 03 Baignoires médicales, élévateurs de bains 1 
+26 04 02 01 Matériels d'imagerie médicale (radiologie, scanner, échographie, imagerie par résonnance magnétique... ) 1 
+26 05 01 01 Centres hospitaliers, cliniques 1 
+30 01 01 01 Matériel Hifi (Chaîne, Radios, Home Cinéma, Enceinte universelle...) 2 
+30 01 01 02 Lecteur MPTrois 2 
+30 01 01 03 Station d'accueil et système nomade (Dock, mini-enceinte...) 2 
+30 01 02 01 Autoradios, lecteurs DVD auto et accessoires 2 
+30 01 03 03 Supports audio-vidéo enregistrables (cartes mémoire, clés... ) 2 
+30 01 04 01 Téléviseurs, lecteurs/enregistreurs DVD, PVR/DVR, Vidéoprojecteur 2 
+30 01 04 02 Caméscopes, matériels vidéo (dont caméras embarquées) 2 
+30 01 04 03 Terminaux numériques (TNT... ) 2 
+30 02 01 01 Instruments de musique et accessoires 2 
+30 02 02 01 Accessoires radio TV (antennes, écouteurs, casques...) 2 
+30 03 01 01 Appareils (dont jetables, numériques, wifi), accessoires et traitements photos (imprimantes spéciales... ) 2 
+32 01 01 04 Ordinateurs pour enfants tablettes, ordinateurs de poche, agendas électroniques) 1 
+32 01 01 06 Consoles, logiciels et accessoires jeux vidéo, jeux en ligne 1 
+32 01 02 01 Poupées et figurines 1 
+32 01 02 06 Autres jouets et accessoires 1 
+32 01 02 08 Peluches 1 
+32 01 02 09 Jeux (éducatifs, artistiques, musicaux, de société, de construction...) 1 
+32 01 02 13 Robots (transformables à fonctions ou interactifs) 1 
+32 01 02 14 Véhicules et engins (dont intéractifs, télécommandés, électriques...) 1 
+32 01 05 01 Feux d'artifice 1 
+32 01 07 01 Institutionnel jouets et jeux 1 
+32 01 08 01 Jeux et jouets pour animaux 1 
+32 02 01 01 Salons, foires, expositions (publicité nationale) 2 
+32 02 01 02 Salons (publicité régionale) 2 
+32 02 01 03 Foires (publicité régionale) 2 
+32 02 01 04 Expositions (publicité régionale) 2 
+32 02 02 01 Films, salles et festivals de cinéma 2 
+32 02 03 01 Spectacles vivants (théâtres, concerts...) 2 
+32 02 03 02 Musées 2 
+32 02 03 03 Soirées à thèmes 2 
+32 02 03 04 Location d'espace pour événement privés 2 
+32 02 03 05 Organisateur d’événement ludique (ex : jeux d’évasion) 2 
+32 02 04 01 Manifestations sportives 2 
+32 02 05 01 Parcs d'attraction 2 
+32 02 05 02 Zoo/parc animalier 2 
+32 02 05 03 Parc d'intérieur de loisirs 2 
+32 02 06 01 Casinos 2 
+32 02 06 02 Jeux de grattage et de tirage 2 
+32 02 06 03 Paris sportifs et hippiques (réseaux physiques) 2 
+32 02 06 04 Paris et jeux d'argent en ligne (sans garantie d'exclusivité) 2 
+32 03 01 01 Matériels de sports (pétanque, patins, planches, skis...) 2 
+32 03 02 01 Matériels de camping 2 
+33 01 01 01 Stations de radio 2 
+33 01 02 01 Presse quotidienne nationale 2 
+33 01 02 02 Presse quotidienne régionale 2 
+33 01 02 03 Presse départementale et locale 2 
+33 01 02 04 Périodiques locaux gratuits 2 
+33 01 02 05 Magazines Actualité-hebdos, Informations générales, culturelles (littérature, spectacles) et scientifiques, Société 2 
+33 01 02 06 Magazines Affaires (économie, investissements, entreprises, emplois, carrières) 2 
+33 01 02 07 Magazines Animaux, Chasse et Pêche, Mer, Océanographie 2 
+33 01 02 08 Magazines Arts, Objets d'arts, Antiquités, Collections, Brocante, Ventes aux enchères 2 
+33 01 02 09 Magazines Auto-moto 2 
+33 01 02 10 Magazines Bandes dessinées (hors enfants) 2 
+33 01 02 11 Magazines Bricolage, Travaux décoratifs, Jardins, Piscines 2 
+33 01 02 12 Magazines Cinéma, Haute-fidélité, Home cinema, DVD, Vidéo, Photo-ciné-vidéo amateur 2 
+33 01 02 13 Magazines Famille 1 
+33 01 02 14 Magazines Féminins, Beauté, Mode, Forme, Diététique, Santé 1 
+33 01 02 15 Magazines Histoire 2 
+33 01 02 16 Magazines Immobilier 2 
+33 01 02 17 Magazines Informatique, Multimédia, Electronique, Internet, Télécommunications, Télématique 2 
+33 01 02 18 Magazines Jeunesse (enfant, pré-adolescent, adolescent et étudiant) 1 
+33 01 02 19 Magazines Jeux, Jeux vidéo, Modelisme et maquettisme, trains 2 
+33 01 02 20 Magazines Maison, Décoration, Art de vivre 1 
+33 01 02 21 Magazines Cuisine 1 
+33 01 02 22 Magazines Masculins 2 
+33 01 02 23 Magazines locaux et régionaux 2 
+33 01 02 24 Magazines Musique, Danse, Variétés 1 
+33 01 02 25 Magazines Personnalités, Célébrités 1 
+33 01 02 26 Magazines Revues de marques (consumers) 2 
+33 01 02 27 Magazines Séniors 3 
+33 01 02 28 Magazines Sports 2 
+33 01 02 29 Magazines Télévision-radio 1 
+33 01 02 30 Magazines Tourisme 2 
+33 01 02 31 Magazines Turfisme-courses 2 
+33 01 02 32 Presse technique et professionnelle, presse agricole, presse médicale 2 
+33 01 03 01 Chaînes TV, bouquets numériques 2 
+33 01 04 01 Afficheurs 2 
+33 01 05 01 Sites Internet éditoriaux (avec contenus journalistiques) 2 
+49 01 01 01 Institutionnel téléphone 2 
+49 01 01 02 Services et offres forfaits du téléphone mobile pour les particuliers 2 
+49 01 01 04 Services et offres prépayés du téléphone mobile, y compris cartes 2 
+49 01 01 05 Services et offres forfaits du téléphone mobile pour les professionnels 2 
+49 01 03 01 Câble, satellite, matériels de réseaux de télécommunication (uniquement transporteur) 2 
+49 01 04 01 Appareils de téléphonie fixe, répondeurs 2 
+49 01 04 02 Appareils de téléphonie mobile hors smartphone 2 
+49 01 04 03 Smartphones 2 
+49 01 04 04 Tablettes, eBooks... 2 
+49 01 04 05 Objets connectés portés (hors montres, sans garantie d'exclusivité) 2 
+49 01 04 06 Montres connectées 2 
+49 01 04 07 Masques et accessoires de réalité virtuelle 2 
+49 01 04 08 Accessoires tout écran (coque, chargeurs, housses...) 2 
+49 01 04 09 Assistant vocal intelligent (enceinte, boitier...) 2 
+49 02 03 07 Fournisseurs de contenu annuaires, renseignements téléphoniques 2 
+49 02 04 01 Fournisseurs de contenu destiné aux adultes (sans garantie d'exclusivité) 2 
+49 02 07 01 Plates-formes de distribution de contenus audiovisuels numériques (télévision de rattrapage (Catch-Up TV, VOD... ), sans garantie d'exclusivité 2 
+49 02 08 01 Personnalisation du téléphone (hors destiné aux adultes) 2 
+49 02 08 02 Fournisseurs de contenu : musiques, vidéos, jeux, applications 2 
+49 03 01 01 Fournisseurs d'accès 2 
+49 03 01 02 Moteurs/portails, navigateur, sans garantie d'exclusivité 2 
+49 03 01 03 Hébergeurs web (création de site web, emailing, aide référencement digital), sans garantie d'exclusivité) 2 
+49 03 01 04 Réseaux Sociaux 2 
+49 03 01 05 Sites internet et applications mobiles généralistes de publication de petites annonces entre particuliers ou professionnels (y compris les sites d'enchères), sans garantie d’exclusivité 2 
+49 04 01 01 Offres multiplay via box des opérateurs/réseaux fixes et/ou mobiles 2 
+49 04 01 02 Offres multiplay via smartphone des opérateurs/réseaux mobiles pour les particuliers 2 
+49 04 01 04 Offres multiplay des opérateurs/réseaux mobiles pour les professionnels 2 
+50 01 01 02 Réseaux et systèmes 2 
+50 01 01 03 Ordinateur y compris portable 2 
+50 01 01 04 Processeurs 2 
+50 01 02 01 Scanners, lecteurs, graveurs (autres que CD audio), souris, webcams... 2 
+50 01 02 02 Modems 2 
+50 01 03 01 Calculatrices 2 
+50 01 03 04 Stations Météo électroniques 2 
+50 01 04 01 Imprimantes multifonctions (hors spéciales photos) 2 
+50 01 04 02 Cartouches pour imprimantes 2 
+50 02 01 01 Copieurs 2 
+50 03 01 01 Logiciels (dont Plug In) hors jeux 2 
+50 03 01 02 Services de cloud 2 
+50 04 01 01 Papeterie (cahiers, classeurs, agendas... ) 2 
+50 04 01 02 Colles de bureau, rubans adhésifs... 2 
+50 04 01 03 Correcteurs écriture 2 
+50 04 01 04 Impression professionnelle (cartes de visites, papier à en-tête, objet publicitaire...) 2 
+50 04 02 01 Matériels d'écriture (stylos, crayons, marqueurs, feutres... ) 2 
+50 04 02 02 Surligneurs 2 
+50 04 03 01 Mobiliers et matériels de bureau 2 
+50 04 04 01 Fournitures de bureau gamme 2 
+55 01 01 01 Matériaux de gros oeuvre 2 
+55 02 01 01 Couverture-étanchéité 2 
+55 03 01 01 Revêtements sols industriels (routiers... ) 2 
+55 04 01 01 Entreprises de construction-BTP 2 
+70 01 01 01 Métallurgie-Travaux métaux 2 
+70 02 01 01 Emballages industriels 2 
+70 03 01 01 Extincteurs 2 
+70 04 01 01 Générateurs 2 
