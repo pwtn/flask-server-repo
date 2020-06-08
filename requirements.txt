@@ -1,3 +1,2 @@
 pandas
-// Wtf pymongo not working easily for mongo atlas
 pymongo[tls,srv]==3.6.1
